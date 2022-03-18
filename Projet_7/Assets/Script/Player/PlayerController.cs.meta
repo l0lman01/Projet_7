@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 709ee11994a2f44658e5fc9887c45081
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - JumpAudio: {fileID: 8300000, guid: 67975c08d56ceb147bad38572d805aa8, type: 3}
+  - RespawnAudio: {fileID: 8300000, guid: dd6057fd464f77942a0bf39c54651b32, type: 3}
+  - OuchAudio: {fileID: 8300000, guid: 6c05149e5a2fba64ba172e25a61074b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

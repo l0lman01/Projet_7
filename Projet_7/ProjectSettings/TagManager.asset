@@ -3,12 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TutorialRequirement
+  - Countdown
+  - MovingPlatform
+  - Ceiling
+  - Bullet
+  - ControllableObject
+  - Light
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
   - 
@@ -16,7 +23,7 @@ TagManager:
   - Ground
   - Trap
   - Player
-  - 
+  - Platform
   - 
   - 
   - 
